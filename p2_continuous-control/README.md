@@ -42,7 +42,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
-1. Follow the Udacity Deep Reinforcement Learning Nanodegree dependencies as in [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). This project use [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/).
+1. Follow the Udacity Deep Reinforcement Learning Nanodegree dependencies as in [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). This project uses [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/).
 
 2. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
 
