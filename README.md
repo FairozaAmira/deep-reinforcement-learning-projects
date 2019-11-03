@@ -9,7 +9,7 @@ Projects in this repository are:
 
 ### Dependencies
 
-Refer to [this link] (https://github.com/udacity/deep-reinforcement-learning#dependencies) for installation instruction.
+Refer to [this link](https://github.com/udacity/deep-reinforcement-learning#dependencies) for installation instruction.
 
 ### Contact
 fairozaamira@gmail.com
