@@ -1,4 +1,4 @@
-## deep-reinforcement-learning-projects
+## Udacity Deep Reinforcement Learning Nanodegree Projects 
 Projects' Solutions for Udacity Deep Reinforcement Learning Nanodegree
 
 Projects in this repository are:
